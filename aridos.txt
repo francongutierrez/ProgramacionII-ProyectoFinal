@@ -1,0 +1,44 @@
+Arena fina
+370.0
+1050.0
+Arena de grano fino, ideal para la fabricación de hormigón y mortero en proyectos de construcción residencial y comercial.
+Grava
+750.0
+1100.0
+Grava de tamaño mediano, utilizada como base en la construcción de carreteras y como agregado en la fabricación de concreto.
+Piedra triturada
+280.0
+1800.0
+Piedra triturada de tamaño uniforme, apropiada para la construcción de bases de pavimentos, rellenos y proyectos paisajísticos.
+Arena filtrante
+1300.0
+1300.0
+Arena de granulometría específica, empleada en sistemas de filtración de agua y construcción de drenajes.
+Gravilla
+580.0
+1600.0
+Pequeñas piedras redondeadas utilizadas para la decoración de jardines y senderos peatonales.
+Tierra de relleno
+920.0
+800.0
+Tierra adecuada para relleno y nivelación de terrenos en proyectos de construcción y paisajismo.
+Piedra partida
+500.0
+1700.0
+Piedra fracturada y clasificada en diferentes tamaños, utilizada en la construcción de bases y sub-bases de carreteras y pavimentos.
+Hormigon elaborado
+185.0
+3500.0
+Mezcla de cemento, arena, grava y agua preparada en la planta de hormigón, utilizada en la construcción de estructuras y pavimentos.
+Bloques de hormigon
+900.0
+50.0
+Bloques prefabricados de hormigón utilizados en la construcción de muros, paredes y estructuras de edificios.
+Ripio
+600.0
+1200.0
+Material compuesto por grava y arena de diferentes tamaños, utilizado en la construcción de caminos, estacionamientos y bases de pavimento.
+Cal
+700.0
+1000.0
+-

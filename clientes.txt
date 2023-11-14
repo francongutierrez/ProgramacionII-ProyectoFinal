@@ -1,0 +1,84 @@
+Juan
+Gimenez
+46451067
+0146040687
+Calle Principal 79
+juangimenez@hotmail.com
+Mario
+Fernandez
+20456789
+1236547890
+Avenida Principal 234
+mariofernandez@hotmail.com
+Gaston
+Rodriguez
+78946132
+7894632101
+Rivadavia 2234
+gastonrodriguez@gmail.com
+Juan
+Ramirez
+46123456
+9638527410
+Mar del Plata 235
+juanramirez@hotmail.com
+Alan
+Enriquez
+12456789
+987654321654
+Circunvalacion 234
+alanenriquez@gmail.com
+Juan
+Delgado
+12647894
+498461684161
+Caseros 456
+juandelgado@live.com.ar
+Carlos
+Vargas
+29846357
+4645978423146
+Buenos Aires 456
+carlosvargas@gmail.com
+Luis
+Zavala
+4864287
+1984354498
+Riobamba 459
+luiszavala@gmail.com
+Benjamin
+Diaz
+22789644
+7896541237
+Chile 123
+benjamindiaz@gmail.com
+Gabriela
+Escobar
+21456987
+7896549517
+Ejercito de los Andes 789
+gabrielaescobar@gmail.com
+Isabel
+Lopez
+30233654
+4651959870
+General Paz 789
+isabellopez@gmail.com
+Luis
+Herrera
+28456123
+123469876431
+Bolivar 987
+luisherrera@gmail.com
+Juan
+Perez
+20789546
+1239871590
+Avenida España 789
+juanperez@hotmail.com
+aa
+aa
+20789547
+1239871590
+Avenida España 789
+juanperez@hotmail.com

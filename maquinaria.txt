@@ -1,0 +1,108 @@
+300 HP
+Diesel
+Caterpillar
+CAT 3CX
+10-06-2014
+1235
+No
+-
+23-06-2019
+250 HP
+Diesel
+JCB
+JCB 3CX
+18-06-2017
+5456
+No
+-
+21-11-2021
+180 HP
+Diesel
+Volvo
+Volvo L120H
+31-08-2017
+789
+No
+-
+10-09-2021
+410 HP
+Diesel
+Mercedes-Benz
+Mercedes-Benz Actros 3341
+10-11-2011
+321
+No
+-
+28-04-2022
+300 HP
+Diesel
+Metso
+Metso LT106
+19-05-2015
+186
+No
+-
+17-10-2020
+120 HP
+Diesel
+Powerscreen
+Powerscreen Chieftain 1400
+17-08-2017
+124
+No
+-
+20-06-2020
+7.5 kW
+Eléctrico
+Martin Engineering
+Martin Engineering CleanScrape
+12-08-2014
+124
+No
+-
+12-11-2016
+460 HP
+Diésel
+Volvo
+Volvo FMX 460
+06-01-2016
+123
+Si
+20
+-
+240 HP
+Diésel
+Scania
+Scania 240X
+06-01-2016
+123
+Si
+16
+-
+380 HP
+Diesel
+Iveco
+Iveco Trakker AD380T41
+19-06-2019
+321
+Si
+14
+-
+500 HP
+Diésel
+MAN
+MAN TGS 50.500
+16-06-2018
+321
+Si
+24
+-
+140 HP
+Diésel
+Caterpillar
+CAT 320D
+17-06-2017
+987
+No
+-
+09-04-2017
